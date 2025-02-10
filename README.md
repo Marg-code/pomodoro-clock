@@ -1,6 +1,6 @@
 # Pomodoro Timer
 
-## To see it live, click [here](https://marg-code-pomodoro-timer.netlify.app/)
+## To see it live, click [here](https://marg-code-pomodoro-timer.netlify.app/)!
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
